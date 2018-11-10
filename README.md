@@ -17,3 +17,20 @@ teststring = This is text.
   * Title Case: This Is Text.  
   * Dot Case : This.is.text.  
   * Random Case: thIS is TeXT    
+
+
+### To Do Projects:
+* Fully Searchable Nepali (Unicoded) Dictionary  
+* Nepal - Database  
+  * Road Network
+  * Population Density
+  * Lyrics
+  * Songs
+  * Artists
+  * Voters List
+  * Newspapers
+  * Online Papers
+* Resume Parser
+* Job Extractor
+  * Eluta, [Indeed](), others
+  
