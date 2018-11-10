@@ -21,6 +21,11 @@ teststring = This is text.
 
 ### To Do Projects:
 * Fully Searchable Nepali (Unicoded) Dictionary  
+  * Database:  
+    * SQLite (Primary)
+    * Mysql (for web based application)
+    * Fully unicoded
+      * Repalce HTML entities like ```&lt;``` and `&gt;` to proper unicode chracter
 * Nepal - Database  
   * Road Network
   * Population Density
