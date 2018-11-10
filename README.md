@@ -33,4 +33,8 @@ teststring = This is text.
 * Resume Parser
 * Job Extractor
   * Eluta, [Indeed](), others
-  
+* Universal font converter (to Unicode)
+* Nepali OCR
+* Random MCQ maker
+* Nepali Syllabus compare
+* 
